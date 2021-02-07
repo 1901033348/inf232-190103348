@@ -9,8 +9,8 @@ i wrote something here
 </head>
 <body>
     <?php
-        a=23;
-        echo a;
+        $a=23;
+        echo $a;
     ?>
 </body>
 </html>
